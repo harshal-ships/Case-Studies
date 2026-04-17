@@ -1,4 +1,4 @@
-# B3Networks [Telcoflow SDK](https://b3networks.docs.buildwithfern.com/introduction/overview) Case Studies Overview
+# B3Networks Telcoflow SDK Case Studies Overview
 
 ## Executive Overview
 
