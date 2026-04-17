@@ -1,8 +1,8 @@
-# B3Networks Telcoflow SDK Case Studies Overview
+# B3Networks [Telcoflow SDK](https://b3networks.docs.buildwithfern.com/introduction/overview) Case Studies Overview
 
 ## Executive Overview
 
-B3Networks helps clients design and deliver modern voice, telephony, and workflow solutions using the Telcoflow SDK and related services. These solutions are built to improve customer experience, reduce operational friction, and turn voice interactions into structured, actionable business workflows.
+B3Networks helps clients design and deliver modern voice, telephony, and workflow solutions using the [Telcoflow-SDK](https://b3networks.docs.buildwithfern.com/introduction/overview) and related services. These solutions are built to improve customer experience, reduce operational friction, and turn voice interactions into structured, actionable business workflows.
 
 The case studies in this pack present a selected set of representative solution patterns. They are intended to show the breadth of what can be delivered with the Telcoflow SDK, not the full limit of what is possible. Depending on business requirements, B3Networks can also design and implement additional custom use cases across voice automation, intelligent routing, notifications, support operations, customer engagement, internal workflows, and telephony-driven process automation.
 
