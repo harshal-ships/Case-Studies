@@ -4,7 +4,7 @@
 
 Many businesses lose valuable opportunities after working hours. Customers call with urgent questions, service requests, or sales intent, but when nobody answers, those calls often turn into missed revenue, delayed support, and poor customer experience.
 
-B3Networks delivers an after-hours voicemail solution built on the Telcoflow SDK and related services. It answers calls professionally, captures the caller's message, creates a written transcript, stores the interaction for follow-up, and alerts the team in real time — so no after-hours opportunity slips through unnoticed.
+B3Networks delivers an after-hours voicemail solution built on the Telcoflow SDK and related services. It answers calls professionally, captures the caller's message, creates a written transcript, stores the interaction for follow-up, and alerts the team in real time - so no after-hours opportunity slips through unnoticed.
 
 The result is a simple but high-impact experience:
 
@@ -105,11 +105,11 @@ flowchart LR
 
 At runtime, this assistant connects four layers:
 
-- **Caller** — the person on the phone outside business hours.
-- **Telcoflow SDK** — the real-time voice layer that receives the call and streams audio in both directions.
-- **Agent Logic** — decides what to do based on current time, business hours, and the state of the call.
-- **AI Model (LLM)** — delivers the greeting, listens to the caller's message, and keeps memory of what was said so it can confirm or guide if needed.
-- **Business Systems** — the voicemail store, transcription service, and team notification channels.
+- **Caller** - the person on the phone outside business hours.
+- **Telcoflow SDK** - the real-time voice layer that receives the call and streams audio in both directions.
+- **Agent Logic** - decides what to do based on current time, business hours, and the state of the call.
+- **AI Model (LLM)** - delivers the greeting, listens to the caller's message, and keeps memory of what was said so it can confirm or guide if needed.
+- **Business Systems** - the voicemail store, transcription service, and team notification channels.
 
 **Call Sequence**
 
@@ -300,10 +300,10 @@ It is a strong fit for both SMB and enterprise scenarios, particularly when resp
 
 ### Key Takeaway
 
-With the After-Hours Voicemail Assistant, B3Networks combines the Telcoflow SDK and related services to deliver real-world voice-driven workflow — not just voice interaction.
+With the After-Hours Voicemail Assistant, B3Networks combines the Telcoflow SDK and related services to deliver real-world voice-driven workflow - not just voice interaction.
 
 Businesses stay responsive when staff are unavailable, unstructured audio becomes actionable information, and continuity improves between customer intent and team follow-up.
 
-It is a practical, easy-to-understand starting point for any business beginning to explore voice AI — immediate value, minimal disruption to existing operations.
+It is a practical, easy-to-understand starting point for any business beginning to explore voice AI - immediate value, minimal disruption to existing operations.
 
 This is one of many solutions B3Networks can deliver on the Telcoflow SDK. Beyond this scenario, B3Networks designs and implements custom voice, telephony, automation, and workflow use cases tailored to each client's operational goals.

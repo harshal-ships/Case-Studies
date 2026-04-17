@@ -4,7 +4,7 @@
 
 For many businesses, the first phone interaction sets the tone for the entire customer relationship. But traditional receptionist workflows often depend on manual lookups, repeated questions, and transfers that slow the experience down for both callers and internal teams.
 
-B3Networks delivers a modern inbound call handling solution built on the Telcoflow SDK and related services. It provides personalized greetings, caller recognition, contextual support, and intelligent routing — so every caller feels known and in the right hands from the first moment of the conversation.
+B3Networks delivers a modern inbound call handling solution built on the Telcoflow SDK and related services. It provides personalized greetings, caller recognition, contextual support, and intelligent routing - so every caller feels known and in the right hands from the first moment of the conversation.
 
 This makes the phone experience more personalized, more efficient, and more scalable.
 
@@ -98,11 +98,11 @@ flowchart LR
 
 At runtime, this assistant connects four layers:
 
-- **Caller** — anyone calling the main business number.
-- **Telcoflow SDK** — the real-time voice layer that passes the caller number and handles the live audio stream.
-- **Agent Logic** — identifies the caller before the call is answered, prepares personalized context, and handles routing to departments.
-- **AI Model (LLM)** — delivers the personalized greeting, holds the conversation, uses CRM context, and keeps memory across the call.
-- **Business Systems** — customer records, open tickets, and the department routing layer.
+- **Caller** - anyone calling the main business number.
+- **Telcoflow SDK** - the real-time voice layer that passes the caller number and handles the live audio stream.
+- **Agent Logic** - identifies the caller before the call is answered, prepares personalized context, and handles routing to departments.
+- **AI Model (LLM)** - delivers the personalized greeting, holds the conversation, uses CRM context, and keeps memory across the call.
+- **Business Systems** - customer records, open tickets, and the department routing layer.
 
 **Call Sequence**
 
@@ -270,6 +270,6 @@ The AI Receptionist Assistant supports several client-facing messages:
 
 The AI Receptionist Assistant is a strong demonstration of how B3Networks combines the Telcoflow SDK and service delivery expertise to make inbound call handling more intelligent, more personalized, and more efficient.
 
-It solves a familiar business challenge — one every client can immediately picture in their own operations.
+It solves a familiar business challenge - one every client can immediately picture in their own operations.
 
 This is one of many solutions B3Networks can deliver on the Telcoflow SDK. Beyond this scenario, B3Networks designs and implements custom voice, telephony, automation, and workflow use cases tailored to each client's operational goals.

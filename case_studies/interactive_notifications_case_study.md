@@ -4,7 +4,7 @@
 
 Businesses often need to notify customers about deadlines, reminders, payments, updates, or required actions. But one-way communication channels are limited: emails are ignored, text messages are skimmed, and outbound notices do not always confirm whether the customer actually understood or acknowledged the message.
 
-B3Networks delivers an interactive customer outreach solution built on the Telcoflow SDK and related services. It delivers notifications over voice calls and lets customers acknowledge each one or request follow-up in a natural conversation — turning one-way alerts into two-way engagement.
+B3Networks delivers an interactive customer outreach solution built on the Telcoflow SDK and related services. It delivers notifications over voice calls and lets customers acknowledge each one or request follow-up in a natural conversation - turning one-way alerts into two-way engagement.
 
 This transforms notifications from passive outreach into an active, trackable customer interaction.
 
@@ -98,11 +98,11 @@ flowchart LR
 
 At runtime, this assistant connects four layers:
 
-- **Customer** — the person receiving or calling in for their notifications.
-- **Telcoflow SDK** — the real-time voice layer handling the live call and audio stream.
-- **Agent Logic** — identifies the caller, fetches their pending notifications, and persists acknowledgements or follow-up flags.
-- **AI Model (LLM)** — reads each notification to the caller, listens to the response, and keeps memory across the conversation so the flow feels natural rather than scripted.
-- **Business Systems** — customer records, the notifications store, and the follow-up queue for items that require human attention.
+- **Customer** - the person receiving or calling in for their notifications.
+- **Telcoflow SDK** - the real-time voice layer handling the live call and audio stream.
+- **Agent Logic** - identifies the caller, fetches their pending notifications, and persists acknowledgements or follow-up flags.
+- **AI Model (LLM)** - reads each notification to the caller, listens to the response, and keeps memory across the conversation so the flow feels natural rather than scripted.
+- **Business Systems** - customer records, the notifications store, and the follow-up queue for items that require human attention.
 
 **Call Sequence**
 
@@ -273,6 +273,6 @@ The Interactive Notifications Assistant supports a differentiated positioning st
 
 The Interactive Notifications Assistant shows how B3Networks combines the Telcoflow SDK and service expertise to modernize an important but often overlooked business process.
 
-By turning static notifications into interactive voice conversations, the solution helps clients improve communication effectiveness, streamline operations, and create a more responsive customer experience — voice AI applied beyond traditional call center automation.
+By turning static notifications into interactive voice conversations, the solution helps clients improve communication effectiveness, streamline operations, and create a more responsive customer experience - voice AI applied beyond traditional call center automation.
 
 This is one of many solutions B3Networks can deliver on the Telcoflow SDK. Beyond this scenario, B3Networks designs and implements custom voice, telephony, automation, and workflow use cases tailored to each client's operational goals.

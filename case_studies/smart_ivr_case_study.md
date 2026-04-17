@@ -4,7 +4,7 @@
 
 Traditional phone menus create friction. Customers often get stuck in long menu trees, press the wrong option, restart the process, or give up before reaching the right destination.
 
-B3Networks delivers a modern conversational IVR solution built on the Telcoflow SDK and related services. It replaces traditional keypad menus with a Smart IVR Assistant that lets callers simply say what they need in natural language — reaching the right outcome faster, without menu trees or wait queues for routine requests.
+B3Networks delivers a modern conversational IVR solution built on the Telcoflow SDK and related services. It replaces traditional keypad menus with a Smart IVR Assistant that lets callers simply say what they need in natural language - reaching the right outcome faster, without menu trees or wait queues for routine requests.
 
 Instead of "press 1 for sales" and "press 2 for support," the caller can speak normally, and the system can either complete the request or route the conversation to the right department.
 
@@ -92,11 +92,11 @@ flowchart LR
 
 At runtime, this assistant connects four layers:
 
-- **Caller** — anyone calling the main business number for any reason.
-- **Telcoflow SDK** — the real-time voice layer handling the live call and audio stream.
-- **Agent Logic** — takes the classified intent from the AI model and chooses whether to self-serve, log, schedule, or route.
-- **AI Model (LLM)** — opens with a natural greeting, understands the caller's intent without a keypad menu, and keeps memory of the conversation.
-- **Business Systems** — self-service data sources, complaint log, callback queue, department routing, and call analytics.
+- **Caller** - anyone calling the main business number for any reason.
+- **Telcoflow SDK** - the real-time voice layer handling the live call and audio stream.
+- **Agent Logic** - takes the classified intent from the AI model and chooses whether to self-serve, log, schedule, or route.
+- **AI Model (LLM)** - opens with a natural greeting, understands the caller's intent without a keypad menu, and keeps memory of the conversation.
+- **Business Systems** - self-service data sources, complaint log, callback queue, department routing, and call analytics.
 
 **Call Sequence**
 
@@ -265,6 +265,6 @@ The Smart IVR Assistant supports client-facing messages such as:
 
 The Smart IVR Assistant is one of the clearest examples of how B3Networks combines the Telcoflow SDK and service delivery expertise to modernize a familiar business experience with immediate customer impact.
 
-Nearly every client already understands the pain of legacy IVR systems, which makes the value of conversational voice easy to recognize — improved usability and lower operational cost, without rebuilding the entire phone system.
+Nearly every client already understands the pain of legacy IVR systems, which makes the value of conversational voice easy to recognize - improved usability and lower operational cost, without rebuilding the entire phone system.
 
 This is one of many solutions B3Networks can deliver on the Telcoflow SDK. Beyond this scenario, B3Networks designs and implements custom voice, telephony, automation, and workflow use cases tailored to each client's operational goals.

@@ -4,7 +4,7 @@
 
 Many businesses want to automate support calls, but full automation is rarely the right answer for every situation. Some inquiries can be handled quickly by AI, while others require human judgment, account access, or a higher level of empathy.
 
-B3Networks delivers a hybrid support solution built on the Telcoflow SDK and related services. It handles routine voice interactions automatically and transfers more complex calls to a live team member with full conversation context — so customers never have to repeat themselves after escalation.
+B3Networks delivers a hybrid support solution built on the Telcoflow SDK and related services. It handles routine voice interactions automatically and transfers more complex calls to a live team member with full conversation context - so customers never have to repeat themselves after escalation.
 
 The model is built for businesses that want automation with control: AI that improves efficiency without forcing them to give up the human safety net customers still expect.
 
@@ -88,11 +88,11 @@ flowchart LR
 
 At runtime, this assistant connects four layers:
 
-- **Caller** — the person looking for support.
-- **Telcoflow SDK** — the real-time voice layer handling both the AI conversation and the later transfer to a human agent.
-- **Agent Logic** — decides when the AI can resolve the request and when to escalate, and manages saving the full conversation context for handoff.
-- **AI Model (LLM)** — understands the caller, answers routine requests, and keeps memory of the conversation so nothing has to be repeated after handoff.
-- **Business Systems** — the knowledge base the AI can reference, the conversation context store, and the human agent queue.
+- **Caller** - the person looking for support.
+- **Telcoflow SDK** - the real-time voice layer handling both the AI conversation and the later transfer to a human agent.
+- **Agent Logic** - decides when the AI can resolve the request and when to escalate, and manages saving the full conversation context for handoff.
+- **AI Model (LLM)** - understands the caller, answers routine requests, and keeps memory of the conversation so nothing has to be repeated after handoff.
+- **Business Systems** - the knowledge base the AI can reference, the conversation context store, and the human agent queue.
 
 **Call Sequence**
 
@@ -247,6 +247,6 @@ The Human Escalation Support Assistant addresses a common hesitation around AI a
 
 With the Human Escalation Support Assistant, B3Networks combines the Telcoflow SDK and service delivery expertise to blend automation with live service operations.
 
-Voice AI does not need to replace human support to create value. It improves speed, reduces repetitive workload, and makes escalations cleaner and more customer-friendly — a balanced, real-world AI deployment that protects the human relationship while automating the routine.
+Voice AI does not need to replace human support to create value. It improves speed, reduces repetitive workload, and makes escalations cleaner and more customer-friendly - a balanced, real-world AI deployment that protects the human relationship while automating the routine.
 
 This is one of many solutions B3Networks can deliver on the Telcoflow SDK. Beyond this scenario, B3Networks designs and implements custom voice, telephony, automation, and workflow use cases tailored to each client's operational goals.

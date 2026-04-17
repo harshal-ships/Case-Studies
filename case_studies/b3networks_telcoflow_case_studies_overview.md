@@ -64,11 +64,11 @@ flowchart LR
 
 A running Telcoflow agent connects four layers:
 
-- **Caller** — the person on the phone, using any regular phone or mobile device.
-- **Telcoflow SDK** — the real-time voice layer that bridges the telephony network and the backend. It handles the call event signalling and the live audio stream in both directions.
-- **Agent Logic** — the business rules that decide what the agent should do on a given call, such as checking business hours, identifying the caller, or choosing when to hand off to a human.
-- **AI Model (LLM)** — the conversational intelligence that actually understands the caller and produces natural voice responses. It keeps a running memory of the conversation so the caller does not have to repeat themselves, and can be asked to perform lookups or actions through the agent logic layer.
-- **Business Systems** — the data and tools the agent needs to be useful, such as scheduling, CRM, databases, notifications, or ticketing.
+- **Caller** - the person on the phone, using any regular phone or mobile device.
+- **Telcoflow SDK** - the real-time voice layer that bridges the telephony network and the backend. It handles the call event signalling and the live audio stream in both directions.
+- **Agent Logic** - the business rules that decide what the agent should do on a given call, such as checking business hours, identifying the caller, or choosing when to hand off to a human.
+- **AI Model (LLM)** - the conversational intelligence that actually understands the caller and produces natural voice responses. It keeps a running memory of the conversation so the caller does not have to repeat themselves, and can be asked to perform lookups or actions through the agent logic layer.
+- **Business Systems** - the data and tools the agent needs to be useful, such as scheduling, CRM, databases, notifications, or ticketing.
 
 ### How A Call Plays Out Step By Step
 
@@ -172,14 +172,14 @@ The matrix below maps each use case in this pack to the core capabilities it dem
 
 **Use case codes**
 
-- **AHV** — After-Hours Voicemail Assistant
-- **APT** — Appointment Booking Assistant
-- **CMC** — Call Monitoring And Coaching Assistant
-- **ESC** — Human Escalation Support Assistant
-- **NOT** — Interactive Notifications Assistant
-- **REC** — AI Receptionist Assistant
-- **SCR** — Candidate Screening Assistant
-- **IVR** — Smart IVR Assistant
+- **AHV** - After-Hours Voicemail Assistant
+- **APT** - Appointment Booking Assistant
+- **CMC** - Call Monitoring And Coaching Assistant
+- **ESC** - Human Escalation Support Assistant
+- **NOT** - Interactive Notifications Assistant
+- **REC** - AI Receptionist Assistant
+- **SCR** - Candidate Screening Assistant
+- **IVR** - Smart IVR Assistant
 
 **Capability coverage**
 

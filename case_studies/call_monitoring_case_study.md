@@ -4,7 +4,7 @@
 
 Support quality depends heavily on what happens during live conversations, but most organizations only review calls after the fact. That means coaching opportunities, customer frustration, and service-risk moments are often discovered too late.
 
-B3Networks delivers a live call intelligence solution built on the Telcoflow SDK and related services. It listens to customer calls, detects issues in real time, and provides private coaching guidance to human agents during the interaction — improving service quality on every call without disrupting the customer experience.
+B3Networks delivers a live call intelligence solution built on the Telcoflow SDK and related services. It listens to customer calls, detects issues in real time, and provides private coaching guidance to human agents during the interaction - improving service quality on every call without disrupting the customer experience.
 
 The result is a higher-value support environment where businesses can improve service quality while calls are still in progress, not only after the interaction has ended.
 
@@ -91,12 +91,12 @@ flowchart LR
 
 At runtime, this assistant connects four layers with one important twist: the AI model is a silent third participant on a live human-to-customer call.
 
-- **Customer** — the person calling the support line.
-- **Human Agent** — the live staff member handling the call.
-- **Telcoflow SDK** — sets up the 3-way call and separates the public audio path from the private whisper path so the customer never hears the coaching.
-- **Agent Logic** — attaches the AI model to the live call and routes private guidance back to the human agent only.
-- **AI Model (LLM)** — listens to the full conversation, keeps memory of the call, and sends private coaching cues when it detects a useful moment.
-- **Business Systems** — the call analytics store, where sentiment, topics, and coaching events are logged for supervisor review.
+- **Customer** - the person calling the support line.
+- **Human Agent** - the live staff member handling the call.
+- **Telcoflow SDK** - sets up the 3-way call and separates the public audio path from the private whisper path so the customer never hears the coaching.
+- **Agent Logic** - attaches the AI model to the live call and routes private guidance back to the human agent only.
+- **AI Model (LLM)** - listens to the full conversation, keeps memory of the call, and sends private coaching cues when it detects a useful moment.
+- **Business Systems** - the call analytics store, where sentiment, topics, and coaching events are logged for supervisor review.
 
 **Call Sequence**
 
@@ -246,6 +246,6 @@ The Call Monitoring and Coaching Assistant supports an advanced-use-case narrati
 
 The Call Monitoring and Coaching Assistant demonstrates how B3Networks combines the Telcoflow SDK and service expertise to enhance live human conversations, not just automate them.
 
-It is designed for clients who want AI to improve agent performance, customer experience, and service quality in real time — a clear example of how voice intelligence can work alongside human teams rather than replace them.
+It is designed for clients who want AI to improve agent performance, customer experience, and service quality in real time - a clear example of how voice intelligence can work alongside human teams rather than replace them.
 
 This is one of many solutions B3Networks can deliver on the Telcoflow SDK. Beyond this scenario, B3Networks designs and implements custom voice, telephony, automation, and workflow use cases tailored to each client's operational goals.

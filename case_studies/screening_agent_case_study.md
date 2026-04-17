@@ -4,7 +4,7 @@
 
 Recruitment teams often spend significant time on early-stage screening calls, collecting the same basic information from every candidate before deciding who should move forward. This is necessary work, but it is repetitive, time-consuming, and difficult to scale when application volume rises.
 
-B3Networks delivers a voice-based hiring workflow solution built on the Telcoflow SDK and related services. It conducts structured screening interviews, captures key applicant information, and supports downstream evaluation — letting recruiting teams focus their time on the strongest candidates instead of on scheduling logistics.
+B3Networks delivers a voice-based hiring workflow solution built on the Telcoflow SDK and related services. It conducts structured screening interviews, captures key applicant information, and supports downstream evaluation - letting recruiting teams focus their time on the strongest candidates instead of on scheduling logistics.
 
 This gives hiring teams a practical way to streamline first-round phone screening while maintaining consistency and professionalism.
 
@@ -96,11 +96,11 @@ flowchart LR
 
 At runtime, this assistant connects four layers:
 
-- **Candidate** — the applicant joining the interview call.
-- **Telcoflow SDK** — the real-time voice layer handling the live call and audio stream.
-- **Agent Logic** — walks the interview through a structured set of sections and records each response in a structured form.
-- **AI Model (LLM)** — asks each question, listens to the candidate's answer, and keeps memory of the full interview so it can pose natural follow-up questions.
-- **Business Systems** — the candidate response store, the evaluation pipeline, and the recruiter results delivery layer.
+- **Candidate** - the applicant joining the interview call.
+- **Telcoflow SDK** - the real-time voice layer handling the live call and audio stream.
+- **Agent Logic** - walks the interview through a structured set of sections and records each response in a structured form.
+- **AI Model (LLM)** - asks each question, listens to the candidate's answer, and keeps memory of the full interview so it can pose natural follow-up questions.
+- **Business Systems** - the candidate response store, the evaluation pipeline, and the recruiter results delivery layer.
 
 **Call Sequence**
 

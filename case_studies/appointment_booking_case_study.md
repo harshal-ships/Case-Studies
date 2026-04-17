@@ -4,7 +4,7 @@
 
 Booking appointments over the phone is still a critical part of customer engagement across healthcare, professional services, beauty, field services, and many other industries. But manual phone scheduling often leads to long wait times, dropped calls, missed bookings, and unnecessary back-and-forth between customers and staff.
 
-B3Networks delivers a phone-based appointment automation solution built on the Telcoflow SDK and related services. It handles live booking conversations, checks availability, confirms appointments, and sends follow-up messages automatically — turning inbound calls into booked revenue without requiring staff involvement.
+B3Networks delivers a phone-based appointment automation solution built on the Telcoflow SDK and related services. It handles live booking conversations, checks availability, confirms appointments, and sends follow-up messages automatically - turning inbound calls into booked revenue without requiring staff involvement.
 
 The value is straightforward:
 
@@ -96,11 +96,11 @@ flowchart LR
 
 At runtime, this assistant connects four layers:
 
-- **Caller** — the person looking to book an appointment.
-- **Telcoflow SDK** — the real-time voice layer handling the live call and audio stream.
-- **Agent Logic** — orchestrates the booking flow and the tools the AI model can use.
-- **AI Model (LLM)** — holds the conversation, keeps memory of service details across the call, and asks the agent for availability or to create a booking when appropriate.
-- **Business Systems** — the calendar, the booking store, and the confirmation messaging channel.
+- **Caller** - the person looking to book an appointment.
+- **Telcoflow SDK** - the real-time voice layer handling the live call and audio stream.
+- **Agent Logic** - orchestrates the booking flow and the tools the AI model can use.
+- **AI Model (LLM)** - holds the conversation, keeps memory of service details across the call, and asks the agent for availability or to create a booking when appropriate.
+- **Business Systems** - the calendar, the booking store, and the confirmation messaging channel.
 
 **Call Sequence**
 
@@ -223,7 +223,7 @@ Through the Telcoflow SDK, B3Networks delivers:
 - Human handoff when escalation is appropriate
 - Integration between telephony and business operations
 
-Together, these capabilities turn call handling into end-to-end workflow execution — from the first ring, to a confirmed booking, to a delivered customer confirmation.
+Together, these capabilities turn call handling into end-to-end workflow execution - from the first ring, to a confirmed booking, to a delivered customer confirmation.
 
 ### Ideal Client Profiles
 
@@ -263,6 +263,6 @@ The Appointment Booking Assistant tells a simple, commercially relevant story:
 
 The Appointment Booking Assistant is a clear demonstration of how B3Networks combines the Telcoflow SDK and implementation services to automate one of the most common and valuable phone-based business workflows.
 
-It improves conversion, reduces operational strain, and creates a more convenient experience for callers — practical voice AI that delivers immediate business value.
+It improves conversion, reduces operational strain, and creates a more convenient experience for callers - practical voice AI that delivers immediate business value.
 
 This is one of many solutions B3Networks can deliver on the Telcoflow SDK. Beyond this scenario, B3Networks designs and implements custom voice, telephony, automation, and workflow use cases tailored to each client's operational goals.

@@ -35,13 +35,13 @@ assets/
 
 Each case study has two diagrams:
 
-- **solution_overview** — horizontal architecture view showing how the caller, the Telcoflow SDK, the assistant, and supporting systems connect.
-- **call_flow** — top-down step-by-step view of the call journey, including decision branches.
+- **solution_overview** - horizontal architecture view showing how the caller, the Telcoflow SDK, the assistant, and supporting systems connect.
+- **call_flow** - top-down step-by-step view of the call journey, including decision branches.
 
 ## File Types
 
-- `.mmd` — Mermaid source code. Version-controlled, human-readable, easy to edit.
-- `.png` — Rendered image. Drop directly into Google Docs, Google Slides, PowerPoint, Notion, Keynote, email, etc.
+- `.mmd` - Mermaid source code. Version-controlled, human-readable, easy to edit.
+- `.png` - Rendered image. Drop directly into Google Docs, Google Slides, PowerPoint, Notion, Keynote, email, etc.
 
 ## Using the PNGs
 
