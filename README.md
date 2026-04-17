@@ -245,6 +245,6 @@ Together, these examples show that the B3Networks Telcoflow SDK is not limited t
 
 B3Networks does not just provide telephony technology. It helps organizations turn voice interactions into smarter business outcomes.
 
-## Reference link
+## Reference
 
 - [Telcoflow SDK Docs](https://b3networks.docs.buildwithfern.com/introduction/overview)
