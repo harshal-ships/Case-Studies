@@ -220,7 +220,7 @@ For some clients, one of these examples may be immediately deployable with adapt
 
 These case studies are representative examples of what B3Networks can deliver with the Telcoflow SDK and related services. They are not intended to limit the scope of available solutions. B3Networks can also design and implement additional custom voice, telephony, automation, routing, notification, support, and workflow use cases based on each client's specific operational goals.
 
-## Closing Summary
+## Summary
 
 Together, these examples show that the B3Networks Telcoflow SDK is not limited to a single type of AI agent or a narrow telephony use case. It provides a flexible foundation for designing practical, business-oriented voice solutions that can improve service, efficiency, responsiveness, and operational visibility.
 
