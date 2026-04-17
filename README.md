@@ -6,23 +6,6 @@ B3Networks helps clients design and deliver modern voice, telephony, and workflo
 
 The case studies in this pack present a selected set of representative solution patterns. They are intended to show the breadth of what can be delivered with the Telcoflow SDK, not the full limit of what is possible. Depending on business requirements, B3Networks can also design and implement additional custom use cases across voice automation, intelligent routing, notifications, support operations, customer engagement, internal workflows, and telephony-driven process automation.
 
-## Portfolio At A Glance
-
-```mermaid
-flowchart TB
-    B3[B3Networks Services and Telcoflow SDK]
-    B3 --> UC1[After-Hours Voicemail]
-    B3 --> UC2[Appointment Booking]
-    B3 --> UC3[Call Monitoring and Coaching]
-    B3 --> UC4[Human Escalation Support]
-    B3 --> UC5[Interactive Notifications]
-    B3 --> UC6[AI Receptionist]
-    B3 --> UC7[Candidate Screening]
-    B3 --> UC8[Smart IVR]
-```
-
-This diagram shows how each solution in the portfolio is built on the same foundation of B3Networks services and the Telcoflow SDK, while addressing a different business workflow.
-
 ## What The Telcoflow SDK Enables
 
 The Telcoflow SDK gives B3Networks a flexible foundation for building voice-enabled business workflows that go far beyond traditional telephony.
